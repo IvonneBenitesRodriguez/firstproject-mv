@@ -33,7 +33,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://ivonnebenitesrodriguez.github.io/firstminiproject-mv/)
+- [Live Demo Link](https://ivonnebenitesrodriguez.github.io/firstproject-mv/)
 
 <!-- GETTING STARTED -->
 <br/>
